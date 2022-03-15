@@ -8,6 +8,9 @@ main executable with the command:
 
 ./main
 
+Or you can navigate to the executable and double click it.
+
+
 **Things to note:**
 
 Make sure that the terminal window that you run the code in is big enough
